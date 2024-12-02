@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ohshit-ak
+- 👋 Hi, I’m @Kandagatla Akshith 
 - 👀 I’m interested in nothing...
 - 🌱 I’m currently learning ... webdev and dsa
 - 💞️ I’m looking to collaborate on ... iiith
