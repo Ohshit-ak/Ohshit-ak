@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kandagatla Akshith 
-- 👀 I’m interested in nothing...
+- 👋 Hi, I’m Kandagatla Akshith 
+- 👀 I’m interested in ... webdev and open source
 - 🌱 I’m currently learning ... webdev and dsa
 - 💞️ I’m looking to collaborate on ... iiith
 - 📫 How to reach me ... mail me
