@@ -87,9 +87,13 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ohshit-ak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&card_width=400" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ohshit-ak&theme=tokyonight" width="98%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ohshit-ak&theme=tokyonight" height="160"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohshit-ak&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ohshit-ak&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
